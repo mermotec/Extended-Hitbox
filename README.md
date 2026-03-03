@@ -4,7 +4,7 @@
 
 ### *Precision Made Easy*
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-brightgreen?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
 [![CurseForge](https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](LICENSE)
 
@@ -96,15 +96,22 @@ All commands are client-side and begin with `/hitbox`:
 
 ## 📥 Download
 
+### **Available Versions**
+
+| Minecraft Version | Fabric | NeoForge | Forge |
+|-------------------|--------|----------|-------|
+| **1.21.4** | [✅ Download](https://github.com/mermotec/Extended-Hitbox/tree/main) | Coming Soon | ❌ |
+| **1.21.1** | [✅ Download](https://github.com/mermotec/Extended-Hitbox/tree/fabric-1.21.1) | Coming Soon | ❌ |
+
+> **📌 Tip:** Click the version link to access that specific branch, then download the release or build from source.
+
 ### **Supported Platforms**
 
-| Platform | Status | Minecraft Version | Download |
-|----------|--------|-------------------|----------|
-| **Fabric** | ✅ Active | 1.21.4 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox) |
-| **NeoForge** | ✅ Active | 1.21.4 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox) |
-| **Forge** | ❌ Discontinued | — | *No longer supported* |
-
-> **Why no Forge?** Forge compatibility introduced numerous breaking errors that compromised mod stability. Development has shifted to Fabric and NeoForge for superior reliability.
+| Platform | Status | Notes |
+|----------|--------|-------|
+| **Fabric** | ✅ Active | Recommended for best performance |
+| **NeoForge** | ✅ Active | Full feature parity with Fabric |
+| **Forge** | ❌ Discontinued | *No longer supported due to compatibility issues* |
 
 ---
 
@@ -112,16 +119,16 @@ All commands are client-side and begin with `/hitbox`:
 
 ### **For Fabric Users**
 
-1. Install **[Fabric Loader](https://fabricmc.net/use/)** for Minecraft 1.21.4
-2. Download **[Fabric API](https://modrinth.com/mod/fabric-api)** (v0.119.4+)
-3. Download **Extended Hitbox** from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox)
+1. Install **[Fabric Loader](https://fabricmc.net/use/)** for your Minecraft version
+2. Download **[Fabric API](https://modrinth.com/mod/fabric-api)** (appropriate version)
+3. Download **Extended Hitbox** from the version table above
 4. Place both `.jar` files in your `.minecraft/mods` folder
 5. Launch Minecraft and enjoy!
 
 ### **For NeoForge Users**
 
-1. Install **[NeoForge](https://neoforged.net/)** for Minecraft 1.21.4
-2. Download **Extended Hitbox** from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox)
+1. Install **[NeoForge](https://neoforged.net/)** for your Minecraft version
+2. Download **Extended Hitbox** from the version table above
 3. Place the `.jar` file in your `.minecraft/mods` folder
 4. Launch Minecraft and enjoy!
 
@@ -140,6 +147,9 @@ All commands are client-side and begin with `/hitbox`:
 git clone https://github.com/mermotec/Extended-Hitbox.git
 cd Extended-Hitbox
 
+# Checkout the version you want
+git checkout fabric-1.21.1  # or main for 1.21.4
+
 # Build the project
 ./gradlew build          # Linux/Mac
 gradlew.bat build        # Windows
@@ -153,9 +163,8 @@ gradlew.bat build        # Windows
 
 | Component | Details |
 |-----------|----------|
-| **Minecraft Version** | 1.21.4 |
-| **Mod Loaders** | Fabric (0.18.4+), NeoForge |
-| **Dependencies** | Fabric API 0.119.4+ (Fabric only) |
+| **Minecraft Versions** | 1.21.4, 1.21.1 (more coming soon) |
+| **Mod Loaders** | Fabric, NeoForge |
 | **Java Version** | 21 |
 | **Environment** | Client-side only |
 
