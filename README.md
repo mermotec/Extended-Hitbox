@@ -82,7 +82,7 @@ The compiled `.jar` will be in `build/libs/`
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+All Rights Reserved © 2026 mermotec
 
 ## 🔗 Links
 
@@ -93,7 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ❤️ Credits
 
 Developed by [mermotec](https://github.com/mermotec)
-
----
-
-**Note:** This is a client-side mod. It modifies hitboxes locally and does not affect server-side collision detection or other players' views.
