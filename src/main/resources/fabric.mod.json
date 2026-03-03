@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "extendedhitbox",
+  "version": "${version}",
+  "name": "Extended Hitbox",
+  "description": "A client-side mod that allows you to expand entity hitboxes for easier targeting in Minecraft.",
+  "authors": [
+    "mermotec"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/extended-hitbox",
+    "sources": "https://github.com/mermotec/Extended-Hitbox"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.extendedhitbox.extendedhitbox.ExtendedHitboxClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "fabric-api": ">=0.119.4"
+  }
+}
