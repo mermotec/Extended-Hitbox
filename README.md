@@ -1,21 +1,24 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Extended+Hitbox;Precision+Made+Easy;Multi-Platform+Support" alt="Typing SVG" />
+<!-- Epic Animated Header with Hitbox Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Extended%20Hitbox&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=✨+Expand+Your+Precision+✨;%F0%9F%8E%AF+Dominate+Every+Target+%F0%9F%8E%AF;⚡+Client-Side+%E2%80%A2+Multi-Platform+%E2%80%A2+Powerful+⚡" alt="Typing SVG" />
 
 <br>
 
-<!-- Premium Badges -->
+<!-- Premium Badges Section -->
 <p>
   <a href="https://www.minecraft.net/">
-    <img src="https://img.shields.io/badge/Minecraft-1.21.x-brightgreen?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
+    <img src="https://img.shields.io/badge/Minecraft-1.21.x-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
   </a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/extended-hitbox">
     <img src="https://img.shields.io/badge/Download-CurseForge-E04E14?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-critical?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-FF0000?style=for-the-badge&logo=law&logoColor=white" alt="License">
   </a>
+  <img src="https://img.shields.io/github/stars/mermotec/Extended-Hitbox?style=for-the-badge&logo=github&color=yellow" alt="Stars">
 </p>
 
 <p>
@@ -23,28 +26,59 @@
     <img src="https://img.shields.io/badge/Loader-Fabric-DBD0B4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACZSURBVHgBnZLBDYAgEARnbMAKrMAKrEArsAIrsAIrsAIrsAIrsAIrsAIrIJkzJEY/vMm+gNkLy7LsTdM0FEVRUBRFcRzH6brO4ziO67ouvu/7cZzned73/RAhBOI4jmOMcRzHEUKIKIqCaZr2PM9jzjnmecY8z2CM+Xme5/f7/f5+v1+WZUHTNNja2iJN05BlGcqyhNYaWmuCIAiSJEn+AEafTKJyY0kXAAAAAElFTkSuQmCC" alt="Fabric">
   </a>
   <a href="https://neoforged.net/">
-    <img src="https://img.shields.io/badge/Loader-NeoForge-FF6B00?style=for-the-badge" alt="NeoForge">
+    <img src="https://img.shields.io/badge/Loader-NeoForge-FF6B00?style=for-the-badge&logo=apache&logoColor=white" alt="NeoForge">
   </a>
-  <img src="https://img.shields.io/badge/Loader-Forge-1C2127?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACZSURBVHgBnZLBDYAgEARnbMAKrMAKrEArsAIrsAIrsAIrsAIrsAIrsAIrIJkzJEY/vMm+gNkLy7LsTdM0FEVRUBRFcRzH6brO4ziO67ouvu/7cZzned73/RAhBOI4jmOMcRzHEUKIKIqCaZr2PM9jzjnmecY8z2CM+Xme5/f7/f5+v1+WZUHTNNja2iJN05BlGcqyhNYaWmuCIAiSJEn+AEafTKJyY0kXAAAAAElFTkSuQmCC&labelColor=red" alt="Forge Discontinued">
+  <img src="https://img.shields.io/badge/Loader-Forge_(Discontinued)-555555?style=for-the-badge&logo=statuspage&logoColor=red&labelColor=1C2127" alt="Forge Discontinued">
 </p>
 
-<!-- Stunning Tagline -->
-<h3>✨ <em>Transform Your Targeting Experience</em> ✨</h3>
-<p><strong>Expand entity hitboxes with surgical precision. Dominate with confidence.</strong></p>
+<!-- Epic Tagline with Visual Effects -->
+<br>
 
-<!-- Quick Links with Icons -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  <em>Transform Every Interaction</em>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
+
 <p>
-  <a href="#-features">🌟 Features</a> •
-  <a href="#-installation">📦 Install</a> •
-  <a href="#-usage">🎮 Usage</a> •
-  <a href="#-download">⬇️ Download</a> •
-  <a href="#-request-a-version">🔔 Request Version</a> •
-  <a href="#-support">💬 Support</a>
+  <strong>🎯 Expand hitboxes with surgical precision</strong><br>
+  <strong>⚡ Zero lag, maximum control</strong><br>
+  <strong>🔥 Dominate PvP and PvE effortlessly</strong>
 </p>
 
 <br>
 
-<!-- Demo GIF Placeholder -->
+<!-- Quick Navigation with Enhanced Icons -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<br><br>
+
+<p>
+  <a href="#-features">
+    <img src="https://img.shields.io/badge/✨_FEATURES-00D9FF?style=for-the-badge&logoColor=white" alt="Features">
+  </a>
+  <a href="#-installation">
+    <img src="https://img.shields.io/badge/📦_INSTALL-00D9FF?style=for-the-badge&logoColor=white" alt="Install">
+  </a>
+  <a href="#-usage">
+    <img src="https://img.shields.io/badge/🎮_USAGE-00D9FF?style=for-the-badge&logoColor=white" alt="Usage">
+  </a>
+  <a href="#-download">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-00D9FF?style=for-the-badge&logoColor=white" alt="Download">
+  </a>
+  <a href="#-request-a-version">
+    <img src="https://img.shields.io/badge/🔔_REQUEST-FF6B00?style=for-the-badge&logoColor=white" alt="Request">
+  </a>
+  <a href="#-support">
+    <img src="https://img.shields.io/badge/💬_SUPPORT-00D9FF?style=for-the-badge&logoColor=white" alt="Support">
+  </a>
+</p>
+
+<br>
+
+<!-- Visual Showcase - Hitbox Concept -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
@@ -53,7 +87,7 @@
 
 <br>
 
-## 🌌 **Overview**
+## 🌐 **Overview**
 
 <div align="center">
 
@@ -578,9 +612,9 @@ For licensing inquiries, please contact [mermotec](https://github.com/mermotec).
 <div align="center">
 
 <!-- Animated Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<br><br>
+<br>
 
 ### 💎 **Crafted with Precision & Passion**
 
@@ -606,6 +640,10 @@ For licensing inquiries, please contact [mermotec](https://github.com/mermotec).
 </a>
 
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br>
 
 <sub>Made with ❤️ for the Minecraft community</sub>
 
