@@ -11,7 +11,7 @@
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/extended-hitbox",
     "sources": "https://github.com/mermotec/Extended-Hitbox"
   },
-  "license": "MIT",
+  "license": "All Rights Reserved",
   "icon": "icon.png",
   "environment": "client",
   "entrypoints": {
