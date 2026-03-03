@@ -38,6 +38,7 @@
   <a href="#-installation">📦 Install</a> •
   <a href="#-usage">🎮 Usage</a> •
   <a href="#-download">⬇️ Download</a> •
+  <a href="#-request-a-version">🔔 Request Version</a> •
   <a href="#-support">💬 Support</a>
 </p>
 
@@ -273,19 +274,116 @@ No server installation. Works everywhere.
 > **⚠️ Forge Discontinuation Notice**  
 > Forge support introduced critical compatibility errors that compromised mod stability. Development has permanently shifted to **Fabric** and **NeoForge** for superior reliability and performance.
 
+---
+
 <br>
 
-### **📂 Need Source Code for Specific Versions?**
+## 🔔 **Request a Version**
 
 <div align="center">
 
-The repository currently contains **generic multi-version support** in the main branch.
+### **🌟 Need a Different Minecraft Version or Loader?**
 
-If you need **version-specific source code** (e.g., 1.20.1, 1.19.4, or other Minecraft versions), please:
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-**[Open an Issue](https://github.com/mermotec/Extended-Hitbox/issues)** or **[Contact Me](https://github.com/mermotec)**
+</div>
 
-I'll create dedicated branches for the versions you need!
+<br>
+
+The repository currently contains **generic multi-version support** in the main branch. However, if you need Extended Hitbox for a **specific Minecraft version** or **mod loader**, I'm here to help!
+
+<div align="center">
+
+### **📝 How to Request**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🎯 What to Include**
+
+1. **Mod Loader** you want
+   - Fabric
+   - NeoForge
+   - *(Forge not supported)*
+
+2. **Minecraft Version** you need
+   - Example: 1.20.1, 1.19.4, 1.18.2
+
+</td>
+<td width="50%" align="center">
+
+**📬 Where to Request**
+
+<br>
+
+<a href="https://github.com/mermotec/Extended-Hitbox/issues/new">
+  <img src="https://img.shields.io/badge/Open%20an%20Issue-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Issue">
+</a>
+
+<br><br>
+
+*or*
+
+<br>
+
+<a href="https://github.com/mermotec">
+  <img src="https://img.shields.io/badge/Contact%20Me-Direct-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Contact">
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### **📋 Request Template**
+
+<div align="center">
+
+Use this template when requesting a new version:
+
+</div>
+
+```markdown
+**Mod Loader:** [Fabric / NeoForge]
+**Minecraft Version:** [e.g., 1.20.1]
+**Additional Notes:** [Optional - any specific requirements]
+```
+
+<br>
+
+### **💡 Examples**
+
+<details>
+<summary><b>Example Request #1</b></summary>
+
+```markdown
+**Mod Loader:** Fabric
+**Minecraft Version:** 1.20.1
+**Additional Notes:** Need this for my server
+```
+
+</details>
+
+<details>
+<summary><b>Example Request #2</b></summary>
+
+```markdown
+**Mod Loader:** NeoForge
+**Minecraft Version:** 1.19.4
+**Additional Notes:** None
+```
+
+</details>
+
+<br>
+
+<div align="center">
+
+> **⚡ Response Time**: I typically create requested versions within **24-48 hours** and will notify you via GitHub when ready!
 
 </div>
 
@@ -308,12 +406,12 @@ I'll create dedicated branches for the versions you need!
 
 1. **Install Fabric Loader**
    - Download from [fabricmc.net](https://fabricmc.net/use/)
-   - Select Minecraft 1.21.x
+   - Select your Minecraft version
    - Run the installer
 
 2. **Get Fabric API**
    - Download from [Modrinth](https://modrinth.com/mod/fabric-api) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-   - Version 0.119.4+ recommended
+   - Version 0.119.4+ recommended for 1.21.x
 
 3. **Install Extended Hitbox**
    - Download from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox)
@@ -332,7 +430,7 @@ I'll create dedicated branches for the versions you need!
 
 1. **Install NeoForge**
    - Download from [neoforged.net](https://neoforged.net/)
-   - Select Minecraft 1.21.x
+   - Select your Minecraft version
    - Run the installer
 
 2. **Install Extended Hitbox**
