@@ -1,4 +1,6 @@
-# Extended Hitbox
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=180&section=header&text=Extended%20Hitbox&fontSize=55&fontColor=fff&fontAlignY=40" />
+</div>
 
 Expand the hitboxes of living entities in Minecraft, with fine control over width and height. Client-side only, built for Fabric and NeoForge.
 
@@ -29,7 +31,7 @@ Expand the hitboxes of living entities in Minecraft, with fine control over widt
 - Full command suite for fine-tuned adjustments
 - Runs entirely client-side with no measurable performance cost
 
-Supported on Fabric and NeoForge. Forge support has been discontinued due to ongoing compatibility issues.
+Supported on Fabric and NeoForge. Forge support has been discontinued due to ongoing compatibility issues, with the last available build on Minecraft 1.20.1.
 
 ## Usage
 
@@ -63,7 +65,7 @@ Examples:
 |----------|--------|-----------|------|
 | Fabric | Active | 1.21.x | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox) |
 | NeoForge | Active | 1.21.x | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-hitbox) |
-| Forge | Discontinued | N/A | Not supported |
+| Forge | Discontinued | 1.20.1 (last supported) | Not supported further |
 
 Current version: **26.1.2**
 
