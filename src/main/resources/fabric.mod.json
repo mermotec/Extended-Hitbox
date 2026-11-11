@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "extendedhitbox",
+  "version": "1.3.0",
+  "name": "Extended Hitbox",
+  "description": "Client-side mod that expands entity hitboxes.",
+  "authors": [
+    "MermoTEC"
+  ],
+  "contact": {},
+  "license": "All Rights Reserved",
+  "icon": "assets/extendedhitbox/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.extendedhitbox.extendedhitbox.ExtendedHitboxClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.8",
+    "java": ">=21",
+    "fabric-api-base": "*",
+    "fabric-key-binding-api-v1": "*",
+    "fabric-command-api-v2": "*"
+  }
+}
