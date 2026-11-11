@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "extendedhitbox",
+  "version": "1.1.0",
+  "name": "Extended Hitbox",
+  "description": "Client-side mod that expands entity hitboxes with configurable multipliers for easier targeting and combat precision.",
+  "authors": [
+    "MermoTEC"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.extendedhitbox.extendedhitbox.ExtendedHitboxClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api-base": "*",
+    "fabric-key-binding-api-v1": "*"
+  }
+}

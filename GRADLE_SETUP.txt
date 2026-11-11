@@ -1,0 +1,17 @@
+# Gradle Wrapper Setup Required
+
+Before building, you need to generate the Gradle wrapper files.
+
+## Option 1: Using Gradle Command
+If you have Gradle installed, run:
+    gradle wrapper --gradle-version 8.8
+
+## Option 2: Using IntelliJ IDEA
+Simply open this folder in IntelliJ IDEA and it will automatically
+download and configure Gradle for you.
+
+## Then Build:
+Windows:    gradlew.bat build
+Linux/Mac:  ./gradlew build
+
+The compiled mod will be in: build/libs/
