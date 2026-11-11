@@ -1,0 +1,13 @@
+{
+  "itemGroup.extendedhitbox": "Example Mod Tab",
+  "block.extendedhitbox.example_block": "Example Block",
+  "item.extendedhitbox.example_item": "Example Item",
+
+  "extendedhitbox.configuration.title": "ExtendedHitbox Configs",
+  "extendedhitbox.configuration.section.extendedhitbox.common.toml": "ExtendedHitbox Configs",
+  "extendedhitbox.configuration.section.extendedhitbox.common.toml.title": "ExtendedHitbox Configs",
+  "extendedhitbox.configuration.items": "Item List",
+  "extendedhitbox.configuration.logDirtBlock": "Log Dirt Block",
+  "extendedhitbox.configuration.magicNumberIntroduction": "Magic Number Text",
+  "extendedhitbox.configuration.magicNumber": "Magic Number"
+}
