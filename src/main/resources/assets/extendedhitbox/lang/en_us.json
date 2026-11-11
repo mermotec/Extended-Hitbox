@@ -1,0 +1,6 @@
+{
+  "key.extendedhitbox.toggle_hitbox": "Toggle Extended Hitbox",
+  "command.hitbox.disable.success": "Disabled extended hitbox for entity/entities",
+  "command.hitbox.enable.success": "Enabled extended hitbox for entity/entities",
+  "command.hitbox.no_entities": "No entities found matching selector"
+}
