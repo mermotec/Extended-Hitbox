@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="MIT"
+
+[[mods]]
+modId="extendedhitbox"
+version="1.1.0"
+displayName="Extended Hitbox"
+description="Client-side mod that expands entity hitboxes with configurable multipliers for easier targeting and combat precision."
+authors="MermoTEC"
+credits="Made by MermoTEC"
+displayTest="IGNORE_ALL_VERSION"
+
+[[dependencies.extendedhitbox]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.extendedhitbox]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1]"
+ordering="NONE"
+side="CLIENT"
