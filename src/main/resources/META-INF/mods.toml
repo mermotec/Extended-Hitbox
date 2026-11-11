@@ -1,0 +1,25 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "All rights reserved"
+
+[[mods]]
+modId             = "extendedhitbox"
+version           = "1.0.0"
+author            = "MermoTEC"
+displayName       = "Extended Hitbox"
+description       = "Expand entity hitboxes client-side via keybind or commands."
+
+[[dependencies.extendedhitbox]]
+modId      = "forge"
+mandatory  = true
+# Minimum Forge build for 1.21.4 — update to match your exact MDK version
+versionRange = "[53.0.0,)"
+ordering   = "NONE"
+side       = "CLIENT"
+
+[[dependencies.extendedhitbox]]
+modId        = "minecraft"
+mandatory    = true
+versionRange = "[1.21.4,1.22)"
+ordering     = "NONE"
+side         = "CLIENT"
