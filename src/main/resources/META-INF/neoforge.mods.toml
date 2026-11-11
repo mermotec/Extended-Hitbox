@@ -1,0 +1,32 @@
+# The mod loader type — always "javafml" for Java mods
+modLoader = "javafml"
+
+# Minimum loader version required
+loaderVersion = "[4,)"
+
+# Your mod's license
+license = "All Rights Reserve"
+
+# ─── Mod Definition ───────────────────────────────────────────
+[[mods]]
+modId         = "extendedhitbox"          # Must match MOD_ID in your @Mod class
+version       = "${file.jarVersion}"      # Filled in automatically from build.gradle
+displayName   = "Extended Hitbox"
+description   = """
+        Expands entity hitboxes on the client side for easier combat. Made with love by MermoTEC
+    """
+
+# ─── Dependencies ─────────────────────────────────────────────
+[[dependencies.extendedhitbox]]
+modId        = "neoforge"
+type         = "required"
+versionRange = "[21.1,)"     # Change to match your NeoForge version
+ordering     = "NONE"
+side         = "CLIENT"      # Client-only mod ✅
+
+[[dependencies.extendedhitbox]]
+modId        = "minecraft"
+type         = "required"
+versionRange = "[1.21.1,1.22)"
+ordering     = "NONE"
+side         = "CLIENT"
